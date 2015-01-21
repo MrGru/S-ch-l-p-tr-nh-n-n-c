@@ -1,2 +1,4 @@
-# S-ch-l-p-tr-nh-n-n-c
-Danh sách các cuốn sách nên đọc cho lập trình viên
+# Sách:
+Danh sách các cuốn sách nên đọc
+- Agile software development: principles, patterns, and practies
+- Clean code: A handbook of Agile Software Craftsmanship
